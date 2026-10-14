@@ -1,2 +1,0 @@
-import{M as e}from"./index-B4ODGNXc.js";var t=e(`chevron-down`,[[`path`,{d:`m6 9 6 6 6-6`,key:`qrunsl`}]]),n=e(`chevron-up`,[[`path`,{d:`m18 15-6-6-6 6`,key:`153udz`}]]);export{t as n,n as t};
-//# sourceMappingURL=chevron-up-7YFepyqz.js.map
