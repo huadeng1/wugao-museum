@@ -109,7 +109,8 @@
         "mode": "grouped",
         "order": "outside-in",
         "duration": 9,
-        "layout": "none"
+        "layout": "none",
+        "overlap": 2.4
       },
       "parts": [
         {
