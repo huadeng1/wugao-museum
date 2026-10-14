@@ -792,6 +792,13 @@
       "radius": 1,
       "overlayOpacity": 1
     },
+    "ortho": {
+      "image": "content/wugao-site-ortho-v20261015.webp",
+      "widthMeters": 406.06,
+      "heightMeters": 199.96,
+      "centerEast": -3.97,
+      "centerNorth": -5.57
+    },
     "hotspots": [
       {
         "id": "hotspot-transformer",
