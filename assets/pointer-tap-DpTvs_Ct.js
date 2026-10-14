@@ -1,2 +1,0 @@
-var e=class{active=new Map;blocked=!1;down(e,t,n,r){this.active.size===0&&(this.blocked=!1),this.active.set(e,{x:t,y:n,threshold:r}),this.active.size>1&&(this.blocked=!0)}move(e,t,n){let r=this.active.get(e);r&&Math.hypot(t-r.x,n-r.y)>r.threshold&&(this.blocked=!0)}up(e,t,n){this.move(e,t,n);let r=this.active.has(e)&&this.active.size===1&&!this.blocked;return this.active.delete(e),r}cancel(e){this.active.delete(e),this.blocked=!0}};export{e as t};
-//# sourceMappingURL=pointer-tap-DpTvs_Ct.js.map
