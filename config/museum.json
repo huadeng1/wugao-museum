@@ -468,7 +468,7 @@
       "kind": "image",
       "url": "content/image-2250kv-summer-1999-v20260922.jpg",
       "thumb": "content/thumbs/image-2250kv-summer-1999-v20260922.jpg",
-      "description": "拍摄于 1999 年夏，成套装置在库外试验场运行时期的历史影像。",
+      "description": "拍摄于 1999 年夏，成套装置在武高所户外试验场运行时期的历史影像。",
       "source": {
         "path": "六、附件图片/核心物项/3-夏日的2250kV工频试验成套装置（拍摄于1999年）.png",
         "dossier": "六、附件图片"
@@ -776,7 +776,7 @@
   ],
   "siteModel": {
     "id": "wugao-field",
-    "name": "武高所库外试验场",
+    "name": "武高所户外试验场",
     "summary": "",
     "poster": "content/model-wugao-site-v20260923.jpg",
     "source": {
