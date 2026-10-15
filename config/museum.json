@@ -137,8 +137,8 @@
             "5400kV冲击电压发生器WK_0002"
           ],
           "level": 1,
-          "direction": [0.4, 0.92, 0],
-          "distance": 17,
+          "direction": [0.2, 0.98, 0],
+          "distance": 27,
           "sequence": [
             0,
             1
@@ -152,8 +152,8 @@
             "5400kV冲击电压发生器WK_0004"
           ],
           "level": 1,
-          "direction": [-0.4, 0.92, 0],
-          "distance": 16,
+          "direction": [-0.3, 0.955, 0],
+          "distance": 22,
           "sequence": [
             0,
             1
@@ -357,8 +357,8 @@
             "5400kV冲击电压发生器WK_0003"
           ],
           "level": 3,
-          "direction": [0.707, 0, 0.707],
-          "distance": 11,
+          "direction": [0.7, 0, -0.714],
+          "distance": 18,
           "sequence": [
             0,
             1
@@ -372,8 +372,8 @@
             "5400kV冲击电压发生器WK_0001"
           ],
           "level": 4,
-          "direction": [-0.45, 0.1, -0.89],
-          "distance": 10,
+          "direction": [-0.9, -0.42, -0.13],
+          "distance": 12,
           "sequence": [
             0,
             1
