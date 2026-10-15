@@ -64,7 +64,8 @@
       "poster": "content/image-2250kv-overview-2025-v20260922.jpg",
       "source": {
         "kind": "gltf",
-        "url": "content/transformer-2250kv-user-20261014.glb"
+        "url": "content/transformer-2250kv-user-20261014.glb",
+        "lowPowerUrl": "content/transformer-2250kv-low-20261015.glb"
       },
       "camera": {
         "position": [
@@ -89,7 +90,8 @@
       "poster": "content/model-generator-5400kv-v20260922.jpg",
       "source": {
         "kind": "gltf",
-        "url": "content/generator-5400kv-user-20261014.glb"
+        "url": "content/generator-5400kv-user-20261014.glb",
+        "lowPowerUrl": "content/generator-5400kv-low-20261015.glb"
       },
       "camera": {
         "position": [
@@ -763,7 +765,8 @@
     "poster": "content/model-wugao-site-v20260923.jpg",
     "source": {
       "kind": "gltf",
-      "url": "content/wugao-site-full-v20260923.glb"
+      "url": "content/wugao-site-full-v20260923.glb",
+      "lowPowerUrl": "content/wugao-site-low-20261015.glb"
     },
     "camera": {
       "position": [

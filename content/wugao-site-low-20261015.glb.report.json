@@ -1,0 +1,12 @@
+{
+ "input": "../source/assets/wugao-site-full-v20260923.glb",
+ "output": "../source/assets/wugao-site-low-20261015.glb",
+ "ratio": 0.2,
+ "error": 0.01,
+ "beforeMB": 31.44,
+ "afterMB": 17.51,
+ "beforeTriangles": 9105216,
+ "afterTriangles": 2574841,
+ "trianglePercent": 28.3,
+ "primitives": 361
+}
