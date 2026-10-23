@@ -1,8 +1,6 @@
-发布时间: 2026-10-16 15:11:24 +08:00
-镜像 tag: release-20261016151124
-sw BUILD: 20261016151124
-源仓库提交: 2a9ce9c3
-index.html sha256: 1baa056c7857abea66b66cbb9bb6dc232e376b393a65e31e8bc6473c923233dc
-文件数: 274
-上一版 tag: release-20261016145008
-回滚: git push --force origin release-<旧stamp>:main   # 在 D:\Code\digital-museum-app\precision\deploy\.publish 里执行
+发布时间: 2026-10-23 10:35:47 +0800
+源仓库提交: 4c49eeb6
+构建指纹: 2026-10-23 02:28:12
+index.html sha256: 80085a748a70a9ee872ceea677ea76d1b0eabbd8c9ab1c25df99e5449ef077a4
+文件数: 275
+说明: 静态包由 precision/dist 同步；相较 2026-10-16 那版，新增场地聚光遮罩/讲解点/量测/操作提示、名称气泡入口、去掉首屏「正在加载展馆配置」文字，并完成名称脱敏。
