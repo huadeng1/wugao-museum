@@ -1,8 +1,8 @@
-发布时间: 2026-11-04 16:57:21 +08:00
-镜像 tag: release-20261104165721
-sw BUILD: 20261104165721
-源仓库提交: 75f5562f
-index.html sha256: 22253959d4aa4484b59b7369026df2cd9aa114e7b32a39d348fb46c3e4741aff
+发布时间: 2026-11-04 17:23:23 +08:00
+镜像 tag: release-20261104172323
+sw BUILD: 20261104172323
+源仓库提交: bb2d7451
+index.html sha256: dd3946aa3f7732645b8c8b0cfbf46d518b03bd0a758eccb4596d334eb8c74f2a
 文件数: 279
-上一版 tag: release-20261016151124
+上一版 tag: release-20261104165721
 回滚: git push --force origin release-<旧stamp>:main   # 在 D:\Code\digital-museum-app\precision\deploy\.publish 里执行
