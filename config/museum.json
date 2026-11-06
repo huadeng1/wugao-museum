@@ -318,7 +318,7 @@
         "mode": "grouped",
         "order": "outside-in",
         "duration": 9,
-        "layout": "none",
+        "layout": "columns",
         "overlap": 2.4
       },
       "parts": [
